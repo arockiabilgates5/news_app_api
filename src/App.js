@@ -6,6 +6,7 @@ import { useState } from 'react';
 
 function App() {
   const [categories, setCategories] = useState('general');
+  console.log("hello");
   
   
   return (
